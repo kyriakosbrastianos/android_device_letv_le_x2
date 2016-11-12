@@ -19,3 +19,10 @@ Front Camera | 8.0 MP
 Release Date | April 2016
 
 ![Le X820](http://img2.hdletv.com/file/20160905/default/12511498927079974 "Le X820")
+
+This project now having bugs below
+1.Camera not working
+2.IR not working
+3.Not stable,will be a very long time first boot
+
+As deadman96385 requested friendly i pushed this device tree
